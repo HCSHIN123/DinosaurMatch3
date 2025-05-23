@@ -1388,14 +1388,14 @@ MonoBehaviour:
   height: 9
   ClickAction:
     m_Name: Click
-    m_Type: 0
-    m_ExpectedControlType: 
-    m_Id: f3a9fffc-1108-4c4c-b8d6-643fad81aa72
+    m_Type: 1
+    m_ExpectedControlType: Button
+    m_Id: 073c1d96-04b5-4b8e-8f3e-41dd15fe0089
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 07ae276f-bbef-44cd-b8f2-ee94f87a0d11
+      m_Id: 845fba1a-6595-469f-803f-18c23c63dbde
       m_Path: <Mouse>/leftButton
       m_Interactions: 
       m_Processors: 
@@ -1407,12 +1407,12 @@ MonoBehaviour:
     m_Name: Click Position
     m_Type: 0
     m_ExpectedControlType: 
-    m_Id: 3a35c051-4af7-4525-9028-828618a471f8
+    m_Id: e6b62f75-771e-4d7d-ac50-ce141a2a08e7
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 783a78c5-6f6b-4c31-96db-f1c8020b471b
+      m_Id: f3753089-db3b-4a26-ae95-ed898b2a1a97
       m_Path: <Mouse>/position
       m_Interactions: 
       m_Processors: 
